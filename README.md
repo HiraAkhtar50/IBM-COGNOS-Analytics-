@@ -16,5 +16,31 @@ This project features an interactive Automotive Sales Dashboard created using IB
 - **Quantity Sold**: Shows the total quantity of vehicles sold.
 - **Quantity Sold by Model**: A bar chart visualizing the quantity sold for each vehicle model, allowing for easy comparison.
 - **Average Quantity Sold**: Calculates and displays the average quantity of vehicles sold.
-7.  [Dashboard 4 - Regional Data](Link to Dashboard 4)
+  
+4.  [Dashboard 4 - Comprehensive Sales dashboard for Consumer Products](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FSimple%2BDashboard&action=view&mode=dashboard&subView=model000001987f526d68_00000000)
+This dashboard provides a comprehensive analysis of sales data for various consumer products, including kitchen appliances, computers and home office equipment, photography gear, smart electronics, and TV and video games. The visualizations are designed to equip stakeholders with essential insights into sales performance, customer preferences, and market trends, facilitating informed decision-making.
+
+## Key Features
+### Panel 1: Map Visualization
+- **Method Used**: Automatic creation of a map visualization.
+- **KPI**: Displays revenue and quantity sold by geographical location.
+
+### Panel 2: Radial Chart
+- **Method Used**: Automatic creation of a radial chart.
+- **KPI**: Visualizes quantity sold segmented by product line and coupon response.
+
+### Panel 3: Cognos Assistant Visualization
+- **Method Used**: Automatic visualization via Cognos Assistant.
+- **KPI**: Shows quantity sold by city, providing insights into city-level sales performance.
+
+### Panel 4: Packed Bubble Chart
+- **Method Used**: Manual creation of a packed bubble chart.
+- **KPI**: Displays product line, quantity sold, and loyalty status.
+- **Data Slots**: Product Line (Bubbles), Quantity Sold (Size), Loyalty Status (Color).
+- **Importance**: Helps identify customer loyalty trends and product performance across categories.
+
+## Importance for Stakeholders
+- **Informed Decision-Making**: Provides actionable insights into sales performance and customer behavior.
+- **Market Trends**: Identifies trends across different product categories that can influence business strategies.
+- **Customer Engagement**: Understanding loyalty status enhances marketing efforts and customer retention strategies.
 8.  [Dashboard 5 - Financial Metrics](Link to Dashboard 5)
