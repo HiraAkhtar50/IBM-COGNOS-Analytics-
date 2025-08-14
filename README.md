@@ -43,4 +43,29 @@ This dashboard provides a comprehensive analysis of sales data for various consu
 - **Informed Decision-Making**: Provides actionable insights into sales performance and customer behavior.
 - **Market Trends**: Identifies trends across different product categories that can influence business strategies.
 - **Customer Engagement**: Understanding loyalty status enhances marketing efforts and customer retention strategies.
-8.  [Dashboard 5 - Financial Metrics](Link to Dashboard 5)
+  
+5.  [Dashboard 5 - Advanced Sales Analytics Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAdvanced%2BDashboard&action=view&mode=dashboard&subView=model000001988966f190_00000000)
+This dashboard leverages advanced capabilities in Cognos Analytics to provide in-depth insights into sales performance across various consumer product categories. By incorporating calculations, data filtering, and navigation paths, this dashboard enables stakeholders to analyze trends, identify key markets, and make informed decisions based on comprehensive visualizations.
+
+## Key Features
+- **Calculated Fields**: 
+  - Created a new field called "Margin" by calculating the difference between unit sale price and unit cost, providing insights into profitability.
+
+- **Data Exclusion**: 
+  - Enabled the exclusion of specific data points from visualizations, allowing for a more focused analysis of relevant sales data.
+
+- **Top Results Filtering**: 
+  - Implemented a top-10 filter to visualize the cities with the highest quantity sold, highlighting key markets for targeted strategies.
+
+- **Navigation Paths**: 
+  - Created and leveraged navigation paths to drill down into sales data by order year, quarter, country, and city, facilitating detailed exploration of trends.
+
+- **Dynamic Data Filtering**: 
+  - Incorporated filters to refine visualizations based on specific criteria, enhancing the ability to analyze data subsets effectively.
+
+## Importance for Stakeholders
+- **Informed Decision-Making**: Provides actionable insights that help stakeholders make data-driven decisions.
+- **Market Identification**: Highlights key cities and product lines, aiding in targeted marketing and sales strategies.
+- **Performance Tracking**: Enables ongoing monitoring of sales performance, identifying areas for improvement and growth.
+- **Enhanced Understanding**: Facilitates a deeper understanding of customer behavior and preferences through detailed analytics.
+- **Strategic Planning**: Supports long-term planning with comprehensive data analysis, helping to align business strategies with market trends.
