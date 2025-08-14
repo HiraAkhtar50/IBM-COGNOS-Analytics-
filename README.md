@@ -20,7 +20,7 @@ This project features an interactive Automotive Sales Dashboard created using IB
 4.  [Dashboard 4 - Comprehensive Sales dashboard for Consumer Products](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FSimple%2BDashboard&action=view&mode=dashboard&subView=model000001987f526d68_00000000)
 This dashboard provides a comprehensive analysis of sales data for various consumer products, including kitchen appliances, computers and home office equipment, photography gear, smart electronics, and TV and video games. The visualizations are designed to equip stakeholders with essential insights into sales performance, customer preferences, and market trends, facilitating informed decision-making.
 
-## Key Features
+### Key Features
 ### Panel 1: Map Visualization
 - **Method Used**: Automatic creation of a map visualization.
 - **KPI**: Displays revenue and quantity sold by geographical location.
