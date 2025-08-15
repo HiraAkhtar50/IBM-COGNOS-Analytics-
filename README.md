@@ -2,7 +2,7 @@
 I have developed real-time interactive dashboards in IBM Cognos Analytics that provide comprehensive insights into sales performance, product metrics, and automotive trends. These dashboards feature engaging visuals designed to enhance stakeholder understanding, incorporating various methods and filters to facilitate data exploration and analysis.
 Here are links to my IBM Cognos Analytics dashboards:
 
-### Dashboards List
+## Dashboards List
 1.  [Dashboard 1 - ProductLine sales performance](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FSimple%2BDashboard&action=view&mode=dashboard&subView=model000001987f273301_00000000)
    This dashboard focuses on product sales performance, highlighting two key KPIs: quantity sold and revenue. It also provides an overview of product line performance over multiple years.
 
@@ -47,7 +47,7 @@ This dashboard provides a comprehensive analysis of sales data for various consu
 5.  [Dashboard 5 - Advanced Sales Analytics Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAdvanced%2BDashboard&action=view&mode=dashboard&subView=model000001988966f190_00000000)
 This dashboard leverages advanced capabilities in Cognos Analytics to provide in-depth insights into sales performance across various consumer product categories. By incorporating calculations, data filtering, and navigation paths, this dashboard enables stakeholders to analyze trends, identify key markets, and make informed decisions based on comprehensive visualizations.
 
-## Key Features
+### Key Features
 - **Calculated Fields**: 
   - Created a new field called "Margin" by calculating the difference between unit sale price and unit cost, providing insights into profitability.
 
@@ -63,7 +63,7 @@ This dashboard leverages advanced capabilities in Cognos Analytics to provide in
 - **Dynamic Data Filtering**: 
   - Incorporated filters to refine visualizations based on specific criteria, enhancing the ability to analyze data subsets effectively.
 
-## Importance for Stakeholders
+### Importance for Stakeholders
 - **Informed Decision-Making**: Provides actionable insights that help stakeholders make data-driven decisions.
 - **Market Identification**: Highlights key cities and product lines, aiding in targeted marketing and sales strategies.
 - **Performance Tracking**: Enables ongoing monitoring of sales performance, identifying areas for improvement and growth.
